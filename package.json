@@ -1,0 +1,42 @@
+{
+  "name": "minitooldesk",
+  "version": "1.0.0",
+  "description": "Headless developer utility SDK and zero-dependency CLI. Pure client-side algorithms for cryptographic hashing, JSON repair, string manipulation, and CSS generation.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "minitooldesk": "./bin/cli.js"
+  },
+  "homepage": "https://minitooldesk.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minitooldesk/minitooldesk-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minitooldesk/minitooldesk-core/issues"
+  },
+  "keywords": [
+    "developer-tools",
+    "developer-sdk",
+    "cli",
+    "client-side",
+    "privacy-first",
+    "hash-calculator",
+    "json-validator",
+    "case-converter",
+    "uuid-generator",
+    "css-generator",
+    "offline-tools"
+  ],
+  "author": "MiniToolDesk Team <support@minitooldesk.com> (https://minitooldesk.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "node bin/cli.js --help"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/node": "^20.17.0"
+  }
+}

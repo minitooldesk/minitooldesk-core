@@ -140,3 +140,4 @@ This package provides the headless core algorithms. For full visual tools and in
 ## 📄 License
 
 MIT © [MiniToolDesk](https://minitooldesk.com)
+

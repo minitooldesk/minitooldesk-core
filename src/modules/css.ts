@@ -34,3 +34,4 @@ export function generateGlassmorphism(blurPx: number, opacity: number, bgHex = '
     border: `1px solid rgba(${r}, ${g}, ${b}, ${Math.min(opacity + 0.1, 0.4)})`,
   };
 }
+

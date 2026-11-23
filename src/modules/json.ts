@@ -2,8 +2,8 @@
  * JSON formatting, validation, and auto-repair utilities.
  *
  * For online interactive usage, visit:
- * https://minitooldesk.com/tools/json-formatter-validator
- * https://minitooldesk.com/tools/json-to-typescript
+ * https://minitooldesk.com/tools/json-formatter-validator/
+ * https://minitooldesk.com/tools/json-to-typescript/
  */
 
 export function validateJson(input: string): { valid: boolean; error?: string; parsed?: unknown } {

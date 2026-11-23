@@ -3,7 +3,7 @@
  * 
  * 100% Client-Side Private Algorithms. Zero Server Uploads.
  * 
- * Web App: https://minitooldesk.com
+ * Web App: https://minitooldesk.com/
  * Repository: https://github.com/minitooldesk/minitooldesk-core
  * License: MIT
  */
@@ -12,4 +12,8 @@ export * from './modules/crypto';
 export * from './modules/text';
 export * from './modules/json';
 export * from './modules/css';
+export * from './modules/devops';
+export * from './modules/network';
+export * from './modules/jwt';
+export * from './modules/cron';
 

@@ -1,14 +1,14 @@
 {
   "name": "minitooldesk",
-  "version": "1.0.0",
-  "description": "Headless developer utility SDK and zero-dependency CLI. Pure client-side algorithms for cryptographic hashing, JSON repair, string manipulation, and CSS generation.",
+  "version": "1.1.0",
+  "description": "Headless developer utility SDK and zero-dependency CLI. Pure client-side algorithms for Docker Compose generation, CIDR subnetting, JWT decoding, Crontab scheduling, cryptographic hashing, JSON repair, string formatting, and CSS generation.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
     "minitooldesk": "./bin/cli.js"
   },
-  "homepage": "https://minitooldesk.com",
+  "homepage": "https://minitooldesk.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/minitooldesk/minitooldesk-core.git"
@@ -22,6 +22,13 @@
     "cli",
     "client-side",
     "privacy-first",
+    "docker-run-to-compose",
+    "docker-compose",
+    "cidr-calculator",
+    "subnet-calculator",
+    "jwt-debugger",
+    "cron-expression",
+    "chmod-calculator",
     "hash-calculator",
     "json-validator",
     "case-converter",
@@ -29,7 +36,7 @@
     "css-generator",
     "offline-tools"
   ],
-  "author": "MiniToolDesk Team <support@minitooldesk.com> (https://minitooldesk.com)",
+  "author": "MiniToolDesk Team <support@minitooldesk.com> (https://minitooldesk.com/)",
   "license": "MIT",
   "scripts": {
     "build": "tsc",

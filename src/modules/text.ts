@@ -2,11 +2,11 @@
  * Text and string utilities.
  * 
  * For online interactive usage, visit:
- * https://minitooldesk.com/tools/case-converter
- * https://minitooldesk.com/tools/word-counter
- * https://minitooldesk.com/tools/slug-generator
- * https://minitooldesk.com/tools/remove-duplicate-lines
- * https://minitooldesk.com/tools/base64-string-converter
+ * https://minitooldesk.com/tools/case-converter/
+ * https://minitooldesk.com/tools/word-counter/
+ * https://minitooldesk.com/tools/slug-generator/
+ * https://minitooldesk.com/tools/remove-duplicate-lines/
+ * https://minitooldesk.com/tools/base64-string-converter/
  */
 
 declare const Buffer: any;

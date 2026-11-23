@@ -3,8 +3,8 @@
  * Powered by Web Cryptography API & Node crypto.
  *
  * For online interactive calculation, visit:
- * https://minitooldesk.com/tools/hash-calculator
- * https://minitooldesk.com/tools/uuid-v4-generator
+ * https://minitooldesk.com/tools/hash-calculator/
+ * https://minitooldesk.com/tools/uuid-v4-generator/
  */
 
 declare const require: any;

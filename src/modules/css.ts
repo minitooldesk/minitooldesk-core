@@ -2,9 +2,9 @@
  * CSS visual algorithms.
  *
  * For visual drag-and-drop generators, visit:
- * https://minitooldesk.com/tools/css-glassmorphism-generator
- * https://minitooldesk.com/tools/css-box-shadow-generator
- * https://minitooldesk.com/tools/css-gradient-generator
+ * https://minitooldesk.com/tools/css-glassmorphism-generator/
+ * https://minitooldesk.com/tools/css-box-shadow-generator/
+ * https://minitooldesk.com/tools/css-gradient-generator/
  */
 
 export interface ShadowLayer {
